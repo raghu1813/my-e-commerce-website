@@ -1,0 +1,87 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 11 Jun, 2018, 9:39:22 PM
+    Author     : raghuram33
+*/
+
+#banner_image{
+    padding-top: 150px;
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(img/intro-bg_1.jpg)no-repeat center center;
+    background-size: cover;
+    padding-left: 120px
+    
+}
+#banner_content{
+    position: relative;
+    padding-top: 6%;
+    padding-bottom: 6%;
+    margin-bottom: 12%;
+  margin-top: 12px;
+    background-color: rgba(0,0,0,0.7);
+    max-width: 660px;
+}
+footer{
+  
+    background-color: #000;
+     color: #fff;
+   
+     padding:24px 0;
+     bottom: 0;
+     width: 100%;
+     
+
+}
+
+.style{
+    text-align: center;
+    padding-top: 140px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 100px;
+    
+}
+h4{
+    text-align: center;
+}
+.styletext{
+    text-align: center;
+}
+
+.t{
+    padding-top: 100px;
+    position: relative;
+}
+.img-responsive{
+    width: auto;
+    height: 350px;
+}
+.bottom{
+    padding-bottom: 303px;
+}
+.bott{
+    padding-bottom: 202px;
+}
+.table{
+    empty-cells:hide;
+   width: 100%;
+    
+}
+#content{
+    min-height: 600px;
+}
+#item_list{
+    padding-top: 50px;
+}
+#settings-container{
+    margin-bottom:10px;
+}
+.remove_item_link{
+    color:#0000ff;
+}
